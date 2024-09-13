@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "newrooftop",
-    "slug": "newrooftop",
+    "name": "rooftop",
+    "slug": "rooftop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./Asset/icon.png",
-    "userInterfaceStyle": "light",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./Asset/splash.png",
       "resizeMode": "contain",
@@ -19,15 +20,27 @@
         "foregroundImage": "./Asset/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.guhan05.newrooftop"
+      "package": "com.vijayguhan10km.rooftop"
     },
     "web": {
+      "bundler": "metro",
+      "output": "static",
       "favicon": "./Asset/favicon.png"
     },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
     "extra": {
+      "router": {
+        "origin": false
+      },
       "eas": {
-        "projectId": "366302b1-d6f6-4d42-a2e8-a1ffbf55d81b"
+        "projectId": "fb92623d-58a5-488e-ac0b-f611f13cd01d"
       }
-    }
+    },
+    "owner": "vijayguhan10km"
   }
 }
