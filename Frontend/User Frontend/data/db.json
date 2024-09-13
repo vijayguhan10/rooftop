@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tomato",
+      "price": 100,
+      "alt": "Tomato image",
+      "image": "https://t3.ftcdn.net/jpg/00/34/61/76/240_F_34617669_p9r4GrR83TBEXCZrRny6AaigqPUEPFp5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cucumber",
+      "price": 60,
+      "alt": "Cucumber image",
+      "image": "https://www.lipmanfamilyfarms.com/wp-content/uploads/2020/09/MiniCucumber-hero@2x.png"
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "price": 80,
+      "alt": "Carrot image",
+      "image": "https://t4.ftcdn.net/jpg/07/39/15/73/240_F_739157364_gdvJeeizQLywiohyQRhGi5cAgyBlcTTg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "small onions",
+      "price": 50,
+      "alt": "Lettuce image",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.suje2u7OMCHp6F1sRXBxzgHaEK&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 5,
+      "name": "curry leaves",
+      "price": 90,
+      "alt": "Bell Pepper image",
+      "image": "https://i0.wp.com/greencloudsolutions.co.za/wp-content/uploads/2017/02/Curryleaves.jpg?fit=1200%2C900"
+    },
+    {
+      "id": 6,
+      "name": "Ginger",
+      "price": 70,
+      "alt": "Spinach image",
+      "image": "https://www.thespruceeats.com/thmb/dnV3nNBICc36Jcwou6u-X3o0rx8=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-116360266-57fa9c005f9b586c357e92cd.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Onion",
+      "price": 50,
+      "alt": "Onion image",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.enRsPHKnDA8rgNOvQZn-nQHaE8&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 8,
+      "name": "Raddish",
+      "price": 40,
+      "alt": "Garlic image",
+      "image": "http://cdn.shopify.com/s/files/1/0451/1101/7626/products/whiteradish.jpg?v=1611836380"
+    },
+    {
+      "id": 9,
+      "name": "chilly",
+      "price": 120,
+      "alt": "Broccoli image",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.Q2EDdd3nmWrqZcHEJwP_FwHaEK&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 10,
+      "name": "Brinjal",
+      "price": 70,
+      "alt": "Cabbage image",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.8274vzaHB5PaSXRiMB9vlgEgDY&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 11,
+      "name": "Ladiesfinger",
+      "price": 70,
+      "alt": "Cabbage image",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.FU_kNrVoiin4KCAQf6cjsQHaE4&pid=Api&rs=1&c=1&qlt=95&w=173&h=113"
+    },
+    {
+      "id": 12,
+      "name": "Avarakkai",
+      "price": 70,
+      "alt": "Cabbage image",
+      "image": "https://1.bp.blogspot.com/-yH1-nOx0FpA/XoXX5oXJEtI/AAAAAAADPYY/Oj9xF7Xitjs1C6rDC-uwlSddoz42GHPrQCLcBGAsYHQ/s640/avarakkai.jpg"
+    }
+  ]
+}

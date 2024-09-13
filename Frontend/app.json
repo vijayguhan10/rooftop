@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "newrooftop",
+    "slug": "newrooftop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Asset/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./Asset/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Asset/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.guhan05.newrooftop"
+    },
+    "web": {
+      "favicon": "./Asset/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "366302b1-d6f6-4d42-a2e8-a1ffbf55d81b"
+      }
+    }
+  }
+}
